@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3523f67e-46ca-4b39-8712-86c1e745c618" name="Changes" comment="initial commit for carbooking">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car/Car.java" afterDir="false" />
-    </list>
+    <list default="true" id="3523f67e-46ca-4b39-8712-86c1e745c618" name="Changes" comment="initial commit for carbooking issues" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734466804193</updated>
       <workItem from="1734466805296" duration="5937000" />
-      <workItem from="1734620559522" duration="810000" />
+      <workItem from="1734620559522" duration="1611000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for carbooking">
       <option name="closed" value="true" />
@@ -96,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734472184236</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit for carbooking issues">
+      <option name="closed" value="true" />
+      <created>1735006460121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735006460121</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit for carbooking" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit for carbooking" />
+    <MESSAGE value="initial commit for carbooking issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit for carbooking issues" />
   </component>
 </project>
