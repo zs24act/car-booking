@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3523f67e-46ca-4b39-8712-86c1e745c618" name="Changes" comment="initial commit for carbooking issues" />
+    <list default="true" id="3523f67e-46ca-4b39-8712-86c1e745c618" name="Changes" comment="initial commit for carbooking issues fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734466804193</updated>
       <workItem from="1734466805296" duration="5937000" />
-      <workItem from="1734620559522" duration="1611000" />
+      <workItem from="1734620559522" duration="2237000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit for carbooking">
       <option name="closed" value="true" />
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735006460121</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit for carbooking issues fix">
+      <option name="closed" value="true" />
+      <created>1735268375030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735268375030</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit for carbooking" />
     <MESSAGE value="initial commit for carbooking issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit for carbooking issues" />
+    <MESSAGE value="initial commit for carbooking issues fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit for carbooking issues fix" />
   </component>
 </project>

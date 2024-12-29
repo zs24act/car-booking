@@ -19,6 +19,9 @@ public class Car {
     public String getModel() {
         return model;
     }
+    public String getModels() {
+        return model;
+    }
 
     public boolean isElectric() {
         return isElectric;
